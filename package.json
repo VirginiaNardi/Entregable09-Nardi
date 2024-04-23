@@ -1,7 +1,7 @@
 {
     "name": "desafio-reestructura-de-nuestro-servidor",
     "version": "1.0.0",
-    "description": "Desafio - Reestructura de nuestro servidor ... Terminado",
+    "description": "",
     "main": "src/app.js",
     "type": "module",
     "scripts": {
@@ -9,7 +9,7 @@
         "dev": "nodemon src/app.js"
     },
     "keywords": [],
-    "author": "Esteban Cardozo",
+    "author": "Virginia Nardi",
     "license": "ISC",
     "dependencies": {
         "@sinonjs/commons": "^4.0.0-alpha.0",
